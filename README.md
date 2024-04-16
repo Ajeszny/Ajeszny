@@ -5,6 +5,7 @@
 - I love programming in all shapes or forms(except maybe frontend) and I'm very fond of engineering as a process
 - I'm particularly good at C-like languages, be it C itself, C++ or even C#
 - I primarily use GitHub to store and publish my projects, so take a look around
+  
   ---
 **My tech stack:**
 
@@ -20,31 +21,37 @@
   ---
 **My projects:**
   ## Runner
-  ---
+  
   https://github.com/Ajeszny/multithreaded_game
+  
   A small game for windows about collecting treasure coins and escaping from the fox.
   ## Cockopolis
-  ---
+  
   https://github.com/Ajeszny/Cockopolis
+  
   A turn-based strategy game made with C++ and SDL, where you control two players capturing the city.
   ## Memory allocator
-  ---
+  
   https://github.com/Ajeszny/malloc
+  
   Reimplementation of standard memory allocation functions.
   ## File system
-  ---
+  
   https://github.com/Ajeszny/fat
+  
   Read API for disks in FAT-12 file system
   ## Encrypter
-  ---
+  
   https://github.com/Ajeszny/simple_encrypter
+  
   GUI app that uses very simple algorythm to encrypt your data
   ## Password manager
-  ---
+  
   https://github.com/Ajeszny/CLI_Password_manager
+  
   A password manager. For now, with Command-Line Interface only.
   ## Server-Client
-  ---
+  
   https://github.com/Ajeszny/po2-z7-csharp
   Server-client comunication app written in C#
 <!--
