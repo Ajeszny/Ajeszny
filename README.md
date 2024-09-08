@@ -21,16 +21,6 @@
 ---
   
 **My projects:**
-  ## Runner
-  
-  https://github.com/Ajeszny/multithreaded_game
-  
-  A small game for windows about collecting treasure coins and escaping from the fox.
-  ## Cockopolis
-  
-  https://github.com/Ajeszny/Cockopolis
-  
-  A turn-based strategy game made with C++ and SDL, where you control two players capturing the city.
   ## Memory allocator
   
   https://github.com/Ajeszny/malloc
@@ -41,20 +31,16 @@
   https://github.com/Ajeszny/fat
   
   Read API for disks in FAT-12 file system
-  ## Encrypter
-  
-  https://github.com/Ajeszny/simple_encrypter
-  
-  GUI app that uses very simple algorythm to encrypt your data
-  ## Password manager
-  
-  https://github.com/Ajeszny/CLI_Password_manager
-  
-  A password manager. For now, with Command-Line Interface only.
-  ## Server-Client
-  
-  https://github.com/Ajeszny/po2-z7-csharp
-  Server-client comunication app written in C#
+  ## Language learning API
+
+  https://github.com/Ajeszny/language_bot_API
+
+  An API I've made for the Quadrolingo project for ONLINE .NET HACKATHON 2024
+  ## Morse Code interpreter
+
+  https://github.com/Ajeszny/morse_l476rg
+
+  A morse code interpreter I made while playing with an STM board :D
 <!--
 **Ajeszny/Ajeszny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
