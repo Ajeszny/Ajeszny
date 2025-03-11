@@ -42,6 +42,12 @@
   https://github.com/Ajeszny/morse_l476rg
 
   A morse code interpreter I made while playing with an STM board :D
+
+  ## Copypasta app
+
+  https://github.com/Ajeszny/pastoschowyshe
+
+  An app (in .NET MAUI with backend in Go) for managing an archive of short internet stories(copypastas).
 <!--
 **Ajeszny/Ajeszny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
